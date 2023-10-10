@@ -1,1 +1,1 @@
-# Personal-Info-Form
+My project name is Personal Information Form. It contains various entries like Name, E-Mail, Password, Phone number, Gender, City, Language, etc. It is a general purpose form wich we can use in any sector like educational, industrial, institutional, etc. to get the information from users. I use only HTML and CSS to make it. If you have some additional features in your mind which can make it more attractive then you can freely contribute in it.
